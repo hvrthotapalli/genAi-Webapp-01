@@ -1,0 +1,17 @@
+{
+  "name": "gen-webapp",
+  "version": "1.0.0",
+  "description": "gen-ai poc app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gen-ai"
+  ],
+  "author": "HVR",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.12.0"
+  }
+}
